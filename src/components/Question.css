@@ -1,0 +1,19 @@
+.question-text{
+    color:#293264;
+}
+
+.option{
+    padding: 10px 10px;
+    margin: 10px;
+    border: 1px solid #4D5B9E;
+    background-color: white;
+    border-radius: 20px;
+    color:#4D5B9E;
+    cursor: pointer;
+    font-weight: 500;
+}
+
+hr{
+  border-top: 1px solid #DBDEF0;
+  /* border-top:#4D5B9E; */
+}
